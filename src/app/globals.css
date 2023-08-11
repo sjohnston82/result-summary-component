@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* @layer base {
+  @font-face {
+    font-family: "HankenGrotesk";
+    src: url("../../public/fonts/HankenGrotesk.ttf") format("truetype");
+  }
+} */
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
