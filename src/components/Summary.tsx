@@ -8,7 +8,7 @@ import VisualIcon from '../../public/icon-visual.svg'
 
 const Summary = () => {
   return (
-    <div className="px-8 h-full flex flex-col justify-around lg:py-8 lg:w-3/5">
+    <div className="px-8 h-full flex flex-col justify-around lg:py-8 lg:w-1/2">
       <h2 className="mt-6 text-xl">Summary</h2>
       <div className="flex flex-col gap-5 mt-6">
 

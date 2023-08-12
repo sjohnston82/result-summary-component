@@ -10,7 +10,7 @@ const ScoreInfo = () => {
       </div>
       <div className="flex flex-col items-center gap-4 pb-4">
         <h2 className="text-white text-2xl">Great</h2>
-        <p className="text-paleblue lg:text-center lg:px-8 opacity-80 text-[16px] px-14 font-medium">
+        <p className="text-paleblue lg:text-center lg:px-14 opacity-80 text-[16px] lg:text-[18px] px-14 font-medium">
           You scored higher than 65% of the people who have taken these tests.
         </p>
       </div>
